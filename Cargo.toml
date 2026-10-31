@@ -1,0 +1,10 @@
+[package]
+name = "terminal-layout"
+version = "0.1.0"
+edition = "2021"
+description = "Arrange macOS terminal and application windows in a predictable grid"
+license = "MIT"
+
+[[bin]]
+name = "terminal-layout"
+path = "src/main.rs"

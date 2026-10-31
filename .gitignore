@@ -1,0 +1,20 @@
+/target/
+/venv/
+/.module-cache/
+/.app-build.*/
+/.test-build/
+/.xcode-derived/
+/Terminal Layout.app/
+.DS_Store
+xcuserdata/
+*.xcuserstate
+
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.p12
+*.key
+.venv/
+__pycache__/
